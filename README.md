@@ -26,7 +26,8 @@
 
 
 ## Решение: 
-<img width="2474" height="1302" alt="Задание 3" src="https://github.com/user-attachments/assets/f1119a70-1b9b-429d-bf20-474585956372" />
+<img width="2106" height="972" alt="Задание 3" src="https://github.com/user-attachments/assets/f3900de8-ce6f-4088-9cc8-46d5be858ecb" />
+
 
 ## 4. Filebeat
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat.
