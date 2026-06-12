@@ -26,7 +26,8 @@
 
 
 ## Решение: 
-<img width="2106" height="972" alt="Задание 3" src="https://github.com/user-attachments/assets/f3900de8-ce6f-4088-9cc8-46d5be858ecb" />
+<img width="2078" height="625" alt="Задание 33" src="https://github.com/user-attachments/assets/f8208846-89ba-423f-be71-9b641313a293" />
+
 
 
 ## 4. Filebeat
@@ -36,4 +37,5 @@
 
 
 ## Решение: 
-<img width="2469" height="884" alt="Задание 4" src="https://github.com/user-attachments/assets/4ab55159-3495-4635-9621-07295b670d36" />
+<img width="2116" height="653" alt="Задание 4" src="https://github.com/user-attachments/assets/cdd025f9-a77a-45f9-8b92-91f1da8849d7" />
+
